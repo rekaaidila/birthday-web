@@ -642,7 +642,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const openLetterButton = document.getElementById("open-birthday-letter");
 
   // Volume audio menggunakan skala 0–1.
-  const SHERMA_VOLUME = 0.15;
+  const SHERMA_VOLUME = 0.20;
 
   // Volume musik YouTube menggunakan skala 0–100.
   const BACKGROUND_VOLUME = 30;
